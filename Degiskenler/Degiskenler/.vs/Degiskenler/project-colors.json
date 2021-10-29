@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9360698-bab6-4251-9cdc-e16dda2769bd": {
+      "ProjectGuid": "d9360698-bab6-4251-9cdc-e16dda2769bd",
+      "DisplayName": "Degiskenler",
+      "ColorIndex": 0
+    },
+    "f1edf24a-19f1-47c0-9ac8-88453ef68d54": {
+      "ProjectGuid": "f1edf24a-19f1-47c0-9ac8-88453ef68d54",
+      "DisplayName": "Degiskenler",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
