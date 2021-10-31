@@ -1,0 +1,16 @@
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.exe
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.deps.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.runtimeconfig.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.runtimeconfig.dev.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\ref\Try-Catch-Finally.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.csproj.AssemblyReference.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\ref\Try-Catch-Finally.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.genruntimeconfig.cache
