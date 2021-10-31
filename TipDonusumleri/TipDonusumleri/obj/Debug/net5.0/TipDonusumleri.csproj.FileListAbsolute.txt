@@ -1,0 +1,16 @@
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.exe
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.deps.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.dev.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\ref\TipDonusumleri.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\ref\TipDonusumleri.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\TipDonusumleri\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.genruntimeconfig.cache
