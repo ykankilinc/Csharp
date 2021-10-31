@@ -1,0 +1,15 @@
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.exe
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.deps.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.runtimeconfig.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.runtimeconfig.dev.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\ref\Debugging-Watch-Variables.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\bin\Debug\net5.0\Debugging-Watch-Variables.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.AssemblyInfoInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.AssemblyInfo.cs
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.csproj.CoreCompileInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\ref\Debugging-Watch-Variables.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\Debugging-Watch-Variables\Debugging-Watch-Variables\obj\Debug\net5.0\Debugging-Watch-Variables.genruntimeconfig.cache

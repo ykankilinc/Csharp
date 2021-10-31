@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Debugging-Watch-Variables/1.0.0": {
+        "runtime": {
+          "Debugging-Watch-Variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Debugging-Watch-Variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

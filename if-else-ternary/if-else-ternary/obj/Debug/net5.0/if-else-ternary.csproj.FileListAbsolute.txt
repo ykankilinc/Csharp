@@ -1,0 +1,16 @@
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.exe
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.deps.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.dev.json
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\bin\Debug\net5.0\if-else-ternary.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.AssemblyReference.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfoInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfo.cs
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.pdb
+C:\Users\YusufKANKILINC\Documents\Patika\Csharp\if-else-ternary\if-else-ternary\obj\Debug\net5.0\if-else-ternary.genruntimeconfig.cache
